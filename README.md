@@ -3,7 +3,7 @@ Welcome to the Headphone Product Landing Page project repository! This project d
 
 
 Features
-Responsive Design: Ensures compatibility across various devices and screen sizes.
-Interactive Elements: Including image sliders, hover effects, and animated transitions.
-Product Showcase: Highlighting features, specifications, and customer reviews.
-Contact Form: Functional form for user inquiries and feedback.
+1. Responsive Design: Ensures compatibility across various devices and screen sizes.
+2. Interactive Elements: Including image sliders, hover effects, and animated transitions.
+3. Product Showcase: Highlighting features, specifications, and customer reviews.
+4. Contact Form: Functional form for user inquiries and feedback.
