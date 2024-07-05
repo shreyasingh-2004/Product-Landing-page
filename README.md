@@ -1,5 +1,5 @@
 # Product-Landing-page
-Welcome to the Headphone Product Landing Page project repository! This project demonstrates a responsive and modern landing page for showcasing headphone products. Built using HTML, CSS, and JavaScript, this page aims to provide an engaging user experience.
+Welcome to the Headphone Product Landing Page project repository! This project demonstrates a responsive and modern landing page for showcasing headphone products. Built using HTML and CSS this page aims to provide an engaging user experience.
 
 
 Features
